@@ -105,27 +105,21 @@ header p {
 .key[data-key="87"] {
   left: 7%;
 }
-
 .key[data-key="69"] {
-  left: 17% ;
+  left: 17%;
 }
-
 .key[data-key="84"] {
   left: 37%;
 }
-
 .key[data-key="89"] {
   left: 47%;
 }
-
 .key[data-key="85"] {
   left: 57%;
 }
-
 .key[data-key="79"] {
   left: 77%;
 }
-
 .key[data-key="80"] {
   left: 87%;
 }
@@ -141,10 +135,10 @@ header p {
   opacity: 0;
   position: absolute;
   bottom: 7px;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
   font-size: 2rem;
 }
 
 .keys:hover .hints {
-    opacity: 1;
+  opacity: 1;
 }
